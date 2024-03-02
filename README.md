@@ -3,10 +3,10 @@ It is a centralized database of all network ports as well as well-known network 
 This repository aims to provide a comprehensive resource for developers, system administrators, and security professionals to easily reference and understand the purpose of various ports across different protocols.
 
 ## Table of Contents
-2. Files Structure
-3. Usage
-4. Contributing
-5. License
+1. Files Structure
+2. Usage
+3. Contributing
+4. License
 
 ## Files Structure
 ### 1. all.csv
@@ -38,5 +38,5 @@ If you have additional port information, corrections, or suggestions for improvi
 
 ## License
 The repository is licensed under the MIT License.
-Refer to the LICENSE file within the repository for detailed licensing information.
+Refer to the [LICENSE](LICENSE) file within the repository for detailed licensing information.
 
